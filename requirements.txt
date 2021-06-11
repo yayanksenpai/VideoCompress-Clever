@@ -7,3 +7,5 @@ pyrogram
 motor
 https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
+flask
+flask_restful
